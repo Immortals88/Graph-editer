@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/ps.ico</file>
+        <file>Images/circle.ico</file>
+        <file>Images/ellipse.ico</file>
+        <file>Images/freeline.ico</file>
+        <file>Images/hexagon.ico</file>
+        <file>Images/line.ico</file>
+        <file>Images/rect.ico</file>
+        <file>Images/rhombus.ico</file>
+        <file>Images/square.ico</file>
+        <file>Images/triangle.ico</file>
+        <file>Images/mouse.ico</file>
+        <file>Images/eraser.ico</file>
+    </qresource>
+</RCC>
